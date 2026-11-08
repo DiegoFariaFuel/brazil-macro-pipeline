@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+data/processed/*.sqlite
+data/processed/*.sqlite-shm
+data/processed/*.sqlite-wal
+.DS_Store

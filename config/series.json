@@ -1,0 +1,14 @@
+{
+  "432": {
+    "name": "Meta Selic definida pelo Copom",
+    "frequency": "daily",
+    "unit": "% a.a.",
+    "source": "https://dadosabertos.bcb.gov.br/dataset/432-taxa-de-juros---meta-selic-definida-pelo-copom"
+  },
+  "433": {
+    "name": "IPCA - variação mensal",
+    "frequency": "monthly",
+    "unit": "% m/m",
+    "source": "https://www3.bcb.gov.br/sgspub/consultarvalores/consultarValoresSeries.do?method=consultarSeries&series=433"
+  }
+}
